@@ -18,10 +18,17 @@ Ask the user to enter the marks of each student in each subject.
 Calculate the total marks for each student using the sum() function of Numpy.
 Calculate the percentage for each student using the total marks and the formula: percentage = (total marks / (number of subjects * 100)) * 100
 Calculate the grade for each student using the percentage and the following grading system:
+
 90% or above: A+
+
 80% or above: A
+
 70% or above: B+
+
 60% or above: B
+
 50% or above: C
+
 below 50%: F
+
 Display the result for each student in a tabular format with columns for student name, total marks, percentage, and grade.
